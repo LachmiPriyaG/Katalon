@@ -14,4 +14,4 @@ steps:
   displayName: 'Execute Katalon Studio project'
   inputs:
     version: '5.9.0'
-    executeArgs: '-browserType="Firefox" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/New Folder"'
+    executeArgs: '-browserType="Firefox" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/New folder"'
